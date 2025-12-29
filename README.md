@@ -1,13 +1,8 @@
-
 <br clear="both">
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=speech&height=70&section=header&reversal=false&text=Hello%20There!!%20I'm%20Anniela%20Montalvo&fontSize=39&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=009900"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Anniela225/Anniela225/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -23,15 +18,15 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://discordapp.com//users//1233583121006596127" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=151612&logoColor=white&labelColor=&style=flat" height="30" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=151612&logoColor=white&labelColor=&style=flat" height="100" alt="discord logo"  />
   </a>
   <a href="https://www.youtube.com/@Neit-za" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=151612&logoColor=white&labelColor=&style=flat" height="30" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=151612&logoColor=white&labelColor=&style=flat" height="100" alt="youtube logo"  />
   </a>
   <a href="https://www.instagram.com/anni_neit/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=151612&logoColor=white&labelColor=&style=flat" height="30" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=151612&logoColor=white&labelColor=&style=flat" height="100" alt="instagram logo"  />
   </a>
 </div>
 
