@@ -34,9 +34,7 @@
 
 ###
 <div align="left">
-<h3>📈 Contribution Activity</h3>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Anniela225&theme=merko" height="300" />
- 
+
   <h3> Statistics</h3>
 <a href="https://github.com/Anniela225">
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anniela225&theme=merko" height="150em" />
