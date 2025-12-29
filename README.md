@@ -32,6 +32,38 @@
 
 
 ###
+## Hi there! 👋
+
+I'm Neitza, a budding web developer from Mexico. Currently diving into HTML, I'm passionate about creating clean and semantic web pages. Join me on my journey as I learn and grow in the world of coding!
+
+## About Me
+
+I am currently learning HTML from scratch, focusing on semantic structure and clean markup. This profile documents my learning process and practice. Based in Mexico, I am excited to connect with fellow developers and share knowledge!
+
+## Skills & Technologies
+
+html,css
+
+## Top Projects
+
+- [Anniela225](https://github.com/Anniela225/Anniela225)  
+  A repository documenting my learning journey in HTML.  
+  ⭐️ 0 Stars  
+  🗂️ 0 Forks  
+  🐛 0 Open Issues
+
+## Recent Activity
+
+- Pushed updates to [Anniela225](https://github.com/Anniela225/Anniela225) on 2025-12-29  
+- Multiple commits enhancing HTML structure and markup.  
+- Engaged in learning and applying best practices in web development.
+
+## Latest Blog Posts
+
+Currently, I do not have any blog posts. Stay tuned for updates!
+
+###
+
 <div align="left">
 
   <h3> Statistics</h3>
