@@ -39,8 +39,8 @@
  
   <h3> Statistics</h3>
 <a href="https://github.com/Anniela225">
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anniela225&theme=merko" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anniela225&theme=merko" height="180em" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anniela225&theme=merko" height="150em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anniela225&theme=merko" height="150em" />
 </div>
   
 ###  
