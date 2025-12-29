@@ -52,12 +52,6 @@ html,css
   🗂️ 0 Forks  
   🐛 0 Open Issues
 
-## Recent Activity
-
-- Pushed updates to [Anniela225](https://github.com/Anniela225/Anniela225) on 2025-12-29  
-- Multiple commits enhancing HTML structure and markup.  
-- Engaged in learning and applying best practices in web development.
-
 ## Latest Blog Posts
 
 Currently, I do not have any blog posts. Stay tuned for updates!
