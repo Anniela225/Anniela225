@@ -5,32 +5,32 @@
 </div>
 
 ###
-<div>
-<img align="left" height="119" src="https://i.pinimg.com/736x/0a/f5/ff/0af5ff562fd1c8af1ce5c5b795ac9e48.jpg"  />
-</div>
 
-###
+<div align="center">
+  
+   <a href="https://open.spotify.com/user/31ddtqswhdkv4uspq55vuyweizwu">
+    <img align="left" src="https://spotify-recently-played-readme.vercel.app/api?user=31ddtqswhdkv4uspq55vuyweizwu&count=5&unique=false" height=250" alt="Spotify recently played"  />
+   </a>
 
-<div align="left">
-  <a href="https://open.spotify.com/user/31ddtqswhdkv4uspq55vuyweizwu">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ddtqswhdkv4uspq55vuyweizwu&count=5&unique=false" height=52" alt="Spotify recently played"  />
+<img align="center" height="200" src="https://i.pinimg.com/736x/0a/f5/ff/0af5ff562fd1c8af1ce5c5b795ac9e48.jpg"  />
+  <br>
+  <br>
+   </a>
+   <a href="https://discordapp.com//users//1233583121006596127" target="_blank">
+    <img align="center" src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=151612&logoColor=white&labelColor=&style=flat" height=30" alt="discord logo"  />
   </a>
-</div>
 
-###
-
-<div align="left">
-  <a href="https://discordapp.com//users//1233583121006596127" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=151612&logoColor=white&labelColor=&style=flat" height=40" alt="discord logo"  />
-  </a>
   <a href="https://www.youtube.com/@Neit-za" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=151612&logoColor=white&labelColor=&style=flat" height=40" alt="youtube logo"  />
+    <img align="center" src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=151612&logoColor=white&labelColor=&style=flat" height=30" alt="youtube logo"  />
   </a>
+ 
   <a href="https://www.instagram.com/anni_neit/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=151610&logoColor=white&labelColor=&style=flat" height=40" alt="instagram logo"  />
+    <img align="center" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=151610&logoColor=white&labelColor=&style=flat" height=30" alt="instagram logo"  />
   </a>
+ 
 </div>
 
+<br>
 
 ###
 <div align="left">
